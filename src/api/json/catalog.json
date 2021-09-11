@@ -2588,6 +2588,14 @@
       "url": "https://json.schemastore.org/testenvironments.json"
     },
     {
+      "name": "theme.json",
+      "description": "WordPress theme global settings & styles",
+      "fileMatch": [
+        "theme.json"
+      ],
+      "url": "https://json.schemastore.org/theme.json"
+    },
+    {
       "name": ".travis.yml",
       "description": "Travis CI configuration file",
       "fileMatch": [
